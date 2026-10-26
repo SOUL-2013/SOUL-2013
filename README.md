@@ -1,77 +1,78 @@
-👋 Hey, I'm Soumadip Biswas!
+# 👋 Hey, I'm Soumadip Biswas!
 
-🚀 Young Developer | Web Creator | Future Tech Innovator
+### 🚀 Young Developer | Web Creator | Future Tech Innovator
 
 Welcome to my GitHub universe! 🌌
 
-I'm a young developer passionate about building websites, exploring programming, and turning creative ideas into real-world projects.
+I'm a young developer passionate about web development, programming, and building digital experiences that turn creative ideas into practical solutions.
 
-I believe age doesn't limit creativity — every great project starts with curiosity and a willingness to learn.
+I believe innovation starts with curiosity, creativity, and the willingness to learn. I'm constantly exploring new technologies and developing projects to improve my skills and create something meaningful.
 
-🌟 About Me
+## 🌟 About Me
 
-💻 Interested in Web Development and Software Engineering
+- 💻 Passionate about Web Development and Software Engineering
+- 🌐 Building modern, responsive, and user-friendly websites
+- 🧠 Learning C programming and exploring new technologies
+- 🚀 Founder of **SOUL — Soumadip Orbit Universal Labs**
+- 🌌 Creator of **PixelOrbit**, a project under SOUL
+- 🛠️ Interested in creating useful websites, applications, and digital tools
+- 📚 Always learning, experimenting, and improving my skills
 
-🌐 Building websites using HTML, CSS, and JavaScript
+## 🧰 Technologies & Tools
 
-🧠 Learning C programming and exploring new technologies
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 💻 C Programming — Currently Learning
+- 🔧 Git & GitHub
+- 🤖 AI-Assisted Development Tools
 
-🚀 Founder of SOUL — Soumadip Orbit Universal Labs
+## 🚀 What I'm Working On
 
-🛠️ Interested in creating useful tools and projects that help people
+- 🌐 Building modern and futuristic websites
+- 💻 Exploring programming and software development
+- 🛠️ Creating useful digital tools and applications
+- 🌌 Developing and expanding my technology initiative, SOUL
+- ✨ Exploring new ideas through PixelOrbit
 
-📚 Always learning, experimenting, and improving my coding skills
+## 🎯 My Goals
 
-🧰 Technologies & Tools
+- 🌍 Build **100 websites and 10 applications**
+- 💡 Create innovative and useful digital products
+- 📈 Improve my programming and problem-solving skills
+- 🤝 Explore open-source development and collaboration
+- 🚀 Grow SOUL into a technology-driven initiative
+- 🧩 Turn creative ideas into real-world solutions
 
-🌐 HTML5
+## 🏢 My Projects & Brands
 
-🎨 CSS3
+### 🚀 SOUL — Soumadip Orbit Universal Labs
 
-⚡ JavaScript
+My personal technology initiative focused on creativity, web development, and exploring innovative digital solutions.
 
-💻 C Programming — Learning
+🌐 Website: https://soul-soumadiporbituniversallabs.gt.tc/
 
-🔧 Git & GitHub
+### 🌌 PixelOrbit
 
-🤖 AI-powered development tools
+A creative digital project under SOUL, reflecting my interest in website development and technology.
 
-🚀 What I'm Working On
+🌐 Website: https://pixelorbit.gt.tc/
 
-Building modern and futuristic websites
+## 🌌 My Philosophy
 
-Exploring programming and software development
+> 💡 Learn something new. Build something useful. Improve every day.
 
-Creating helpful web tools and digital projects
+## 🤝 Connect With Me
 
-Growing my personal tech initiative, SOUL
+- 💼 LinkedIn: https://www.linkedin.com/in/soumadip-biswas-3a7790442/
+- 🐙 GitHub: @SOUL-2013
+- 🚀 SOUL: https://soul-soumadiporbituniversallabs.gt.tc/
+- 🌌 PixelOrbit: https://pixelorbit.gt.tc/
 
-🎯 My Goals
+---
 
-Become a skilled software developer
+### ⭐ Thanks for visiting my GitHub profile!
 
-Build useful and innovative digital products
+🚀 Building ideas. Exploring technology. Creating the future.
 
-Contribute to open-source projects
-
-Turn ideas into real-world solutions
-
-create 100 websites and 10 apps
-
-🌌 My Philosophy
-
-Learn something new. Build something useful. Improve every day.
-
-🤝 Let's Connect
-
-Explore my repositories, check out my projects, and follow my journey as I learn, build, and grow.
-
-⭐️ From SOUL-2013
-📫 Connect With Me
-💼 LinkedIn: Soumadip Biswas https://www.linkedin.com/in/soumadip-biswas-3a7790442/?isSelfProfile=true
-🚀 SOUL:https://soul-soumadiporbituniversallabs.gt.tc/. SOUL stands for Soumadip Orbit Universal Labs. I am the founder of SOUL.
-🌐PixelOrbit:https://pixelorbit.gt.tc/. I am also the creator and founder of pixelorbit. and it is under the SOUL
-⭐ Thanks for visiting my GitHub profile!
-
-Made with curiosity and code by Soumadip Biswas.
- 
+**Made with curiosity and code by Soumadip Biswas.**
