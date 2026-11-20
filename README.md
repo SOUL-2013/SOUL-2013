@@ -1,93 +1,114 @@
 <div align="center">
-  
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=180&section=header&text=Soumadip%20Biswas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=220&section=header&text=Soumadip%20Biswas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Young%20Developer%20%7C%20Founder%20of%20SOUL&descAlignY=55&descSize=18" width="100%"/>
+</div>
 
-  <!-- Typing Animation -->
+<br>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Soumadip+Biswas+%F0%9F%91%8B;Young+Developer+%7C+Web+Creator;Founder+of+SOUL;Building+the+future+with+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey%2C+I'm+Soumadip+Biswas!;Building+SOUL+%26+PixelOrbit;Web+Creator+%7C+Future+Tech+Innovator" alt="Typing SVG" />
   </a>
+</div>
 
-  <br><br>
+<br>
 
-  <!-- Profile Views + Badges -->
-  <img src="https://komarev.com/ghpvc/?username=SOUL-2013&style=for-the-badge&color=00D9FF" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Status-Building%20SOUL-purple?style=for-the-badge&logo=rocket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Web%20%2B%20C%20%2B%20Rust-00D9FF?style=for-the-badge"/>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Young%20Developer-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Creator-06B6D4?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Founder%20of%20SOUL-EC4899?style=for-the-badge&logo=star&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=SOUL-2013&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
 </div>
 
 ---
 
-### 🌌 About Me
+### ✨ About Me
 
-Hi! I'm **Soumadip Biswas** — a young developer passionate about turning ideas into real digital products.
+Hi! I'm **Soumadip Biswas**, a young developer passionate about technology, programming, and creating useful digital products.
 
-- 🚀 Founder of **SOUL — Soumadip Orbit Universal Labs**
+I'm the founder of **SOUL — Soumadip Orbit Universal Labs** and creator of **PixelOrbit**.  
+I love building modern websites, exploring new technologies, and turning ideas into real projects.
+
+- 🚀 Founder of **SOUL**
 - 🌌 Creator of **PixelOrbit**
-- 💻 Currently focused on modern web development + learning **C** and **Rust**
+- 💻 Currently learning **C** and exploring **Rust**
+- 🌐 Building modern & futuristic websites
 - 🎯 Goal: Build **100 websites** and **10 applications**
-- 💡 Philosophy: *Learn something new. Build something useful. Improve every day.*
+
+> *"Small steps every day lead to big achievements."*
 
 ---
 
-### 🧰 Tech Stack
+### 🚀 My Learning Universe
+
+| Field              | Currently Exploring          |
+|--------------------|------------------------------|
+| 💻 Programming     | C + Python + JavaScript     |
+| 🌐 Web Development | HTML, CSS, JavaScript       |
+| ⚙️ Systems         | C Programming               |
+| 🦀 Emerging        | Rust                        |
+| 🔧 Version Control | Git & GitHub                |
+| 🤖 AI Tools        | AI-Assisted Development     |
+| 🛠️ Product Building| SOUL & PixelOrbit Projects  |
+
+---
+
+### 💻 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,rust,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,rust,git,github,vscode&theme=dark" width="450"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ What I Love Building
+
+- 🌐 Modern & Futuristic Websites
+- 🚀 Personal Brand & Product Sites (SOUL, PixelOrbit)
+- 🧩 Beginner-friendly Learning Projects
+- ⚡ Useful Digital Tools
+- 🤖 AI-related Experiments
+- 📱 Creative Web Experiences
+
+---
+
+### 📊 GitHub Insights
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SOUL-2013&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUL-2013&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SOUL-2013&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SOUL-2013&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E2E8F0"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUL-2013&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0"/>
 </div>
 
 ---
 
-### 🚀 Featured Projects & Brands
+### 🔥 My Coding Journey
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌌 SOUL</h3>
-      <p>Soumadip Orbit Universal Labs — My personal technology initiative.</p>
-      <a href="https://soul-soumadiporbituniversallabs.gt.tc/">
-        <img src="https://img.shields.io/badge/Visit%20SOUL-6B46C1?style=for-the-badge&logo=rocket&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%">
-      <h3>✨ PixelOrbit</h3>
-      <p>Creative digital project under SOUL.</p>
-      <a href="https://pixelorbit.gt.tc/">
-        <img src="https://img.shields.io/badge/Visit%20PixelOrbit-00D9FF?style=for-the-badge&logo=globe&logoColor=black"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🤖 soul-AI</h3>
-      <p>AI-related project under SOUL brand.</p>
-      <a href="https://github.com/SOUL-2013/soul-AI">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-    <td>
-      <h3>🚀 orbitxai</h3>
-      <p>OrbitX AI project.</p>
-      <a href="https://github.com/SOUL-2013/orbitxai">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SOUL-2013&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=94A3B8"/>
+</div>
+
+---
+
+### 🌱 My Philosophy
+
+<div align="center">
+  
+  ### **LEARN. BUILD. EXPLORE. REPEAT.**
+  
+  *Every expert was once a beginner.*
+  
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **SOUL** | My personal technology initiative | [Visit](https://soul-soumadiporbituniversallabs.gt.tc/) |
+| **PixelOrbit** | Creative digital project under SOUL | [Visit](https://pixelorbit.gt.tc/) |
+| **soul-AI** | AI project under SOUL brand | [Repo](https://github.com/SOUL-2013/soul-AI) |
+| **orbitxai** | OrbitX AI | [Repo](https://github.com/SOUL-2013/orbitxai) |
+| **hello_world.c** | Beginning C codes | [Repo](https://github.com/SOUL-2013/hello_world.c) |
 
 ---
 
@@ -95,21 +116,24 @@ Hi! I'm **Soumadip Biswas** — a young developer passionate about turning ideas
 
 <p align="center">
   <a href="https://www.linkedin.com/in/soumadip-biswas-3a7790442/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
-  <a href="https://github.com/SOUL-2013">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  &nbsp;
   <a href="https://soul-soumadiporbituniversallabs.gt.tc/">
-    <img src="https://img.shields.io/badge/SOUL%20Website-6B46C1?style=for-the-badge&logo=rocket&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SOUL%20Website-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" height="35"/>
   </a>
+  &nbsp;
   <a href="https://pixelorbit.gt.tc/">
-    <img src="https://img.shields.io/badge/PixelOrbit-00D9FF?style=for-the-badge&logo=globe&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PixelOrbit-06B6D4?style=for-the-badge&logo=globe&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/SOUL-2013">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
   </a>
 </p>
 
----
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=100&section=footer&text=Building%20ideas.%20Exploring%20technology.%20Creating%20the%20future.&fontSize=16&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer&text=Building%20ideas.%20Exploring%20technology.%20Creating%20the%20future.&fontSize=15&fontColor=ffffff&animation=fadeIn"/>
 </div>
