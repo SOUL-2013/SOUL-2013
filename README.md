@@ -1,78 +1,115 @@
-# 👋 Hey, I'm Soumadip Biswas!
+<div align="center">
+  
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=180&section=header&text=Soumadip%20Biswas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### 🚀 Young Developer | Web Creator | Future Tech Innovator
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Soumadip+Biswas+%F0%9F%91%8B;Young+Developer+%7C+Web+Creator;Founder+of+SOUL;Building+the+future+with+code" alt="Typing SVG" />
+  </a>
 
-Welcome to my GitHub universe! 🌌
+  <br><br>
 
-I'm a young developer passionate about web development, programming, and building digital experiences that turn creative ideas into practical solutions.
+  <!-- Profile Views + Badges -->
+  <img src="https://komarev.com/ghpvc/?username=SOUL-2013&style=for-the-badge&color=00D9FF" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Status-Building%20SOUL-purple?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Web%20%2B%20C%20%2B%20Rust-00D9FF?style=for-the-badge"/>
 
-I believe innovation starts with curiosity, creativity, and the willingness to learn. I'm constantly exploring new technologies and developing projects to improve my skills and create something meaningful.
-
-## 🌟 About Me
-
-- 💻 Passionate about Web Development and Software Engineering
-- 🌐 Building modern, responsive, and user-friendly websites
-- 🧠 Learning C programming and exploring new technologies
-- 🚀 Founder of **SOUL — Soumadip Orbit Universal Labs**
-- 🌌 Creator of **PixelOrbit**, a project under SOUL
-- 🛠️ Interested in creating useful websites, applications, and digital tools
-- 📚 Always learning, experimenting, and improving my skills
-
-## 🧰 Technologies & Tools
-
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 💻 C Programming — Currently Learning
-- 🔧 Git & GitHub
-- 🤖 AI-Assisted Development Tools
-
-## 🚀 What I'm Working On
-
-- 🌐 Building modern and futuristic websites
-- 💻 Exploring programming and software development
-- 🛠️ Creating useful digital tools and applications
-- 🌌 Developing and expanding my technology initiative, SOUL
-- ✨ Exploring new ideas through PixelOrbit
-
-## 🎯 My Goals
-
-- 🌍 Build **100 websites and 10 applications**
-- 💡 Create innovative and useful digital products
-- 📈 Improve my programming and problem-solving skills
-- 🤝 Explore open-source development and collaboration
-- 🚀 Grow SOUL into a technology-driven initiative
-- 🧩 Turn creative ideas into real-world solutions
-
-## 🏢 My Projects & Brands
-
-### 🚀 SOUL — Soumadip Orbit Universal Labs
-
-My personal technology initiative focused on creativity, web development, and exploring innovative digital solutions.
-
-🌐 Website: https://soul-soumadiporbituniversallabs.gt.tc/
-
-### 🌌 PixelOrbit
-
-A creative digital project under SOUL, reflecting my interest in website development and technology.
-
-🌐 Website: https://pixelorbit.gt.tc/
-
-## 🌌 My Philosophy
-
-> 💡 Learn something new. Build something useful. Improve every day.
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/soumadip-biswas-3a7790442/
-- 🐙 GitHub: @SOUL-2013
-- 🚀 SOUL: https://soul-soumadiporbituniversallabs.gt.tc/
-- 🌌 PixelOrbit: https://pixelorbit.gt.tc/
+</div>
 
 ---
 
-### ⭐ Thanks for visiting my GitHub profile!
+### 🌌 About Me
 
-🚀 Building ideas. Exploring technology. Creating the future.
+Hi! I'm **Soumadip Biswas** — a young developer passionate about turning ideas into real digital products.
 
-**Made with curiosity and code by Soumadip Biswas.**
+- 🚀 Founder of **SOUL — Soumadip Orbit Universal Labs**
+- 🌌 Creator of **PixelOrbit**
+- 💻 Currently focused on modern web development + learning **C** and **Rust**
+- 🎯 Goal: Build **100 websites** and **10 applications**
+- 💡 Philosophy: *Learn something new. Build something useful. Improve every day.*
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,rust,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SOUL-2013&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUL-2013&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SOUL-2013&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+</div>
+
+---
+
+### 🚀 Featured Projects & Brands
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌌 SOUL</h3>
+      <p>Soumadip Orbit Universal Labs — My personal technology initiative.</p>
+      <a href="https://soul-soumadiporbituniversallabs.gt.tc/">
+        <img src="https://img.shields.io/badge/Visit%20SOUL-6B46C1?style=for-the-badge&logo=rocket&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>✨ PixelOrbit</h3>
+      <p>Creative digital project under SOUL.</p>
+      <a href="https://pixelorbit.gt.tc/">
+        <img src="https://img.shields.io/badge/Visit%20PixelOrbit-00D9FF?style=for-the-badge&logo=globe&logoColor=black"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🤖 soul-AI</h3>
+      <p>AI-related project under SOUL brand.</p>
+      <a href="https://github.com/SOUL-2013/soul-AI">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+    <td>
+      <h3>🚀 orbitxai</h3>
+      <p>OrbitX AI project.</p>
+      <a href="https://github.com/SOUL-2013/orbitxai">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/soumadip-biswas-3a7790442/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SOUL-2013">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://soul-soumadiporbituniversallabs.gt.tc/">
+    <img src="https://img.shields.io/badge/SOUL%20Website-6B46C1?style=for-the-badge&logo=rocket&logoColor=white"/>
+  </a>
+  <a href="https://pixelorbit.gt.tc/">
+    <img src="https://img.shields.io/badge/PixelOrbit-00D9FF?style=for-the-badge&logo=globe&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=100&section=footer&text=Building%20ideas.%20Exploring%20technology.%20Creating%20the%20future.&fontSize=16&fontColor=ffffff&animation=fadeIn"/>
+</div>
